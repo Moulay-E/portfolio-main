@@ -11,14 +11,14 @@ export default function Presentation() {
             <span className="">A propos</span>
           </h2>
           <p className="text-lg font-normal text-black font-roboto lg:text-xl ">
-            Bienvenue sur mon portfolio de développeur web ! Formée
-            intensivement pendant 9 mois chez OpenClassrooms, je maîtrise React,
-            Sass, Node.js et Redux, et je suis passionnée par la création
-            d'applications web innovantes. Découvrez mes projets variés et
-            contactez-moi pour des collaborations créatives. Toujours prête à
-            explorer de nouvelles technologies, je suis ouverte à des
-            opportunités passionnantes pour faire évoluer mon parcours
-            professionnel.
+            Bienvenue sur mon portfolio de développeur web ! Après une formation
+            intensive de 9 mois chez OpenClassrooms, j'ai acquis une maîtrise en
+            React, Sass, Node.js et Redux. Je suis passionné par la création
+            d'applications web innovantes. Explorez mes projets variés et
+            n'hésitez pas à me contacter pour des collaborations créatives.
+            Toujours en quête de nouvelles technologies passionnantes, je suis
+            ouvert à des opportunités stimulantes pour faire progresser mon
+            parcours professionnel.
           </p>
         </div>
       </div>
